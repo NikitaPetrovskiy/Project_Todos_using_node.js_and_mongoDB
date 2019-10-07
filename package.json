@@ -1,0 +1,20 @@
+{
+  "name": "todos_by_node_and_mongodb",
+  "version": "1.0.0",
+  "description": "This project project was created using: node.js and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "NikitaPetrovskiy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
